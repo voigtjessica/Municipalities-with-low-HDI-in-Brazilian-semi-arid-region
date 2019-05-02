@@ -6,7 +6,7 @@ library(janitor)
 library(dplyr)
 library(data.table)
 
-register_google(key ="AIzaSyA1-iHvJN0B9K5EW_HLi7DGjlAnvU6cTUI")
+register_google(key ="")
 
 setwd("C:/Users/coliv/Documents/GIF/atlasbrasil")
 
